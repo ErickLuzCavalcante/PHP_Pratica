@@ -4,5 +4,5 @@ Por causa do desenvolvimento do TCC da FATEC de Itaquaquecetuba, percebi a neces
 
 Estou utilizando as aulas/materiais provenientes de:
 
-- Curso: **Introdução ao PHP moderno** da Digital Inovation One;
+- Curso: **Introdução ao PHP moderno** da Digital Inovation One, certificado disponível em: https://certificates.digitalinnovation.one/82A84671
 
